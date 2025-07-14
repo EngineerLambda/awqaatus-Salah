@@ -14,7 +14,7 @@ Salah Time is a web application built using Streamlit that displays Islamic pray
    ```
 2. Navigate to the project directory:
    ```
-   cd salah_time
+   cd awqaatus-Salah
    ```
 3. Install the required packages:
    ```
